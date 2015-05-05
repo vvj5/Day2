@@ -1,3 +1,5 @@
+/*Homework1: Outer*/
+
 .section1 {
 	background-color: #273040;
 	height: 1080px;
@@ -72,15 +74,19 @@
 }
 
 .white3 {
-	height: 215px;
+	height: 200px;
 	background-color: white;
 	margin-bottom: 25px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 15px;
 }
 
 .white4 {
-	height: 240px;
+	height: 225px;
 	background-color: white;
 	margin-bottom: 25px;
+	padding-top: 15px;
 }
 
 .section4 {
@@ -131,3 +137,97 @@
 .text4 {
 	word-spacing: 0px
 }
+/*Homework1: Outer;*/
+
+
+
+
+/*Homework2: Inner;*/
+.blue1b {
+	background-color: #005A95;
+	height: 50px;
+
+}
+.bluebox1 {
+	background-color: #0C76B5;
+	margin-right: 75px;
+	height: 50px;
+}
+
+.whitebox1 {
+	background-color: white;
+	width: 30px;
+	height: 30px;
+	margin: 10px 10px 10px 15px;
+	float: left;
+}
+
+.whitebox2 {
+	background-color: white;
+	width: 120px;
+	height: 30px;
+	margin: 10px 180px 10px 5px;
+	float: left;
+}
+
+.graybox1 {
+	background-color: #4E5A6C;
+	width: 55px;
+	height: 55px;
+	margin-top: 10px;
+	float: left;
+}
+
+.graybox2 {
+	background-color: #4E5A6C;
+	width: 232px;
+	height: 55px;
+	margin-bottom: 10px;
+	margin-right: 3px;
+	float: right;
+}
+
+.graybox3 {
+	background-color: #BBC8CF;
+	width: 63px;
+	height: 63px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 10px;
+}
+
+.graybox4 {
+	background-color: #BBC8CF;
+	width: 495px;
+	height: 20px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.graybox5 {
+	background-color: #BBC8CF;
+	width: 495px;
+	height: 50px;
+	margin-top: 15px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.graybox6 {
+	background-color: #BBC8CF;
+	width: 495px;
+	height: 85px;
+	margin: 15px 15px 10px 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
