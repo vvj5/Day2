@@ -1,6 +1,6 @@
 .section1 {
 	background-color: #273040;
-	height: 1161px;
+	height: 1080px;
 	padding-bottom: 60px;
 }
 
@@ -46,14 +46,88 @@
 	margin-right: auto;
 	margin-left: auto;
 	margin-top: 220px;
-	margin-bottom: 145px;
+	margin-bottom: 125px;
 }
 
 .white2 {
 	height: 65px;
-	width: 270px;
-	margin-top: 40px;
+	width: 300px;
+	margin-top: 30px;
 	margin-left: auto;
 	margin-right: auto;
 	background-color: white;
+}
+
+.section2 {
+	height: 190px;
+	background-color: #E2ECF3;
+}
+
+.section3 {
+	height: 1520px;
+	background-color: #C7C9CE;
+	padding-top: 30px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.white3 {
+	height: 215px;
+	background-color: white;
+	margin-bottom: 25px;
+}
+
+.white4 {
+	height: 240px;
+	background-color: white;
+	margin-bottom: 25px;
+}
+
+.section4 {
+	height: 55px;
+	background-color: #E2ECF3;
+	padding-top: 95px;
+	padding-bottom: 20px;
+}
+
+.blue3 {
+	height: 50px;
+	width: 210px;
+	background-color: #1577B3;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.section5 {
+	height: 105px;
+	background-color: black;
+	padding-top: 25px;
+}
+
+.text3 {
+	color: white;
+	font-family: Arial;
+	font-size: 10px;
+	text-align: center;
+	word-spacing: 20px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+.white5 {
+	background-color: white;
+	width: 130px;
+	height: 25px;
+	margin-top: 25px;
+	margin-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.section6 {
+	height: 25px
+}
+
+.text4 {
+	word-spacing: 0px
 }
