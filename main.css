@@ -1,4 +1,4 @@
-/*Homework1: Outer*/
+/*Start Homework1: Outer*/
 
 .section1 {
 	background-color: #273040;
@@ -137,12 +137,12 @@
 .text4 {
 	word-spacing: 0px
 }
-/*Homework1: Outer;*/
+/*End Homework1: Outer;*/
 
 
 
 
-/*Homework2: Inner;*/
+/*Start Homework2: Inner;*/
 .blue1b {
 	background-color: #005A95;
 	height: 50px;
@@ -219,15 +219,4 @@
 	height: 85px;
 	margin: 15px 15px 10px 15px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
+/*End Homework2: Inner*/
