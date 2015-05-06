@@ -1,4 +1,4 @@
-/*Start Homework1: Outer*/
+/*Start Homework3: Text*/
 
 .section1 {
 	background-color: #273040;
@@ -9,6 +9,33 @@
 .blue1 {
 	background-color: #0C76B5;
 	height: 45px;
+}
+
+.wordpress {
+	font-size: 14px;
+	font-family: Helvetica;
+	text-align: left;
+	margin-left: 10px;
+	margin-top: 15px;
+	color: white;
+}
+
+.com {
+	font-size: 14px;
+	font-family: Helvetica;
+	text-align: left;
+	margin-left: 10px;
+	margin-top: 15px;
+	color: #76C2E3;
+}
+
+.login {
+	font-size: 12px;
+	font-family: Arial;
+	text-align: right;
+	margin-right: 20px;
+	margin-top: 15px;
+	color: white;
 }
 
 .text1 {
@@ -39,6 +66,10 @@
 .blue2 {
 	height: 50px;
 	background-color: #0C76B5;
+	font-size: 24px;
+	font-family: Arial;
+	text-align: center;
+	margin-top: 15px;
 }
 
 .white1 {
@@ -152,6 +183,7 @@
 	background-color: #0C76B5;
 	margin-right: 75px;
 	height: 50px;
+	color: white;
 }
 
 .whitebox1 {
@@ -219,4 +251,4 @@
 	height: 85px;
 	margin: 15px 15px 10px 15px;
 }
-/*End Homework2: Inner*/
+/*End Homework3: Text*/
