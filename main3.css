@@ -1,0 +1,424 @@
+
+.section1 {
+	background-image: url(images/crowd.jpg);
+	background-size: cover;
+	height: 1080px;
+	padding-bottom: 60px;
+}
+
+.wordpress {
+	font-size: 16px;
+	font-family: Helvetica;
+	text-align: left;
+	margin-top: 17px;
+	margin-left: 5px;
+	color: white;
+	float: left;
+}
+
+.com {
+	font-size: 16px;
+	font-family: Helvetica;
+	text-align: left;
+	margin-top: 17px;
+	color: #76C2E3;
+	float: left;
+}
+
+.login {
+	font-size: 14px;
+	font-family: Arial;
+	text-align: right;
+	margin-right: 20px;
+	margin-top: 17px;
+	color: white;
+	display: block;
+	float: right;
+	clear: left;
+}
+
+.menu-title {
+	font-weight: 4;
+	font-family: Arial;
+	font-size: 24px;
+	text-align: center;
+	color: white;
+}
+
+.menu1-title {
+	font-weight: 4;
+	font-family: Arial;
+	font-size: 19px;
+	text-align: left;
+	color: white;
+}
+
+.menu1-sub {
+	font-family: Arial;
+	font-size: 14px;
+	text-align: left;
+	color: white;
+	line-height: 2;
+}
+
+.menu2-title {
+	font-weight: bold;
+	font-family: Arial;
+	font-size: 19px;
+	text-align: center;
+	color: #2C4758;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.menu2-sub {
+	font-family: Arial;
+	font-size: 15.5px;
+	text-align: center;
+	color: black;
+	line-height: 1.5;
+}
+
+.text1 {
+	margin-top: 150px;
+	text-align: center;
+	font-size: 34px;
+	font-family: Arial;
+	color: white;
+}
+
+.text2 {
+	margin-top: 30px;
+	text-align: center;
+	font-size: 16px;
+	color: white;
+}
+
+.black1 {
+	margin-top: 30px;
+	width: 210px;
+	height: 50px;
+	background-color: #191E28;
+	padding: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	opacity: .6
+}
+
+.blue2 {
+	height: 20px;
+	background-color: #0C76B5;
+	margin-top: 0px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	float: initial;
+}
+
+
+
+.white1 {
+	height: 20px;
+	width: 48px;
+	background: white;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 220px;
+	margin-bottom: 125px;
+}
+
+.white2 {
+	height: 65px;
+	width: 300px;
+	margin-top: 30px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	margin-bottom: 30px;
+	clear: left;
+
+}
+
+.section2 {
+	height: 150px;
+	background-color: #E2ECF3;
+	font-size: 23px;
+	font-family: Arial;
+	text-align: center;
+	line-height: 1.7;
+	padding: 19px;
+	color: #273040;
+}
+
+.section2b {
+	height: 130px;
+	background-color: #E2ECF3;
+	font-size: 23px;
+	font-family: Arial;
+	text-align: center;
+	line-height: 1.7;
+	padding:19px;
+	color: #273040;
+}
+
+
+.section3 {
+	height: 1520px;
+	background-color: #C7C9CE;
+	padding-top: 30px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.white3 {
+	height: 200px;
+	background-color: white;
+	margin-bottom: 25px;
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-top: 15px;
+}
+
+.white4 {
+	height: 225px;
+	background-color: white;
+	margin-bottom: 25px;
+	padding-top: 15px;
+}
+
+.section4 {
+	height: 95px;
+	background-color: #E2ECF3;
+	padding-bottom: 20px;
+}
+
+
+.black1b {
+	width: 210px;
+	height: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 35px;
+}
+
+.blue2b {
+	height: 35px;
+	background-color: #0C76B5;
+	margin-top: 0px;
+	padding-top: 5px;
+	padding-bottom: 15px;
+}
+
+.blue3 {
+	height: 50px;
+	width: 210px;
+	background-color: #1577B3;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.section5 {
+	height: 105px;
+	background-color: black;
+	padding-top: 25px;
+}
+
+.text3 {
+	color: white;
+	font-family: Arial;
+	font-size: 10px;
+	text-align: center;
+	word-spacing: 20px;
+	margin-left: 40px;
+	margin-right: 40px;
+}
+
+.white5 {
+	background-image: url(images/automattic.png);
+	background-size: cover;
+	width: 130px;
+	height: 25px;
+	margin-top: 25px;
+	margin-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.section6 {
+	height: 25px
+}
+
+.text4 {
+	word-spacing: 0px
+}
+/*End Homework1: Outer;*/
+
+
+
+
+/*Start Homework2: Inner;*/
+.blue1b {
+	background-color: #005A95;
+	height: 50px;
+	overflow: hidden;
+
+}
+.bluebox1 {
+	background-color: #0C76B5;
+	margin-right: 75px;
+	height: 50px;
+	color: white;
+}
+
+.whitebox1 {
+	background-image: url(images/logo.png);
+	background-size: cover;
+	width: 30px;
+	height: 30px;
+	margin: 10px 10px 10px 15px;
+	float: left;
+}
+
+.whitebox2 {
+	background-color: white;
+	width: 120px;
+	height: 30px;
+	margin: 10px 180px 10px 5px;
+	float: left;
+}
+
+.mobile {
+	background-image: url(images/tablet.png);
+	background-size: cover;
+	width: 50px;
+	height: 55px;
+	margin-top: 0px;
+	float: left;
+}
+
+.freshly {
+	background-image: url(images/newspaper.png);
+	background-size: cover;
+	width: 50px;
+	height: 55px;
+	margin-top: 0px;
+	float: left;
+}
+
+.hundreds {
+	background-image: url(images/paint-brush.png);
+	background-size: cover;
+	width: 50px;
+	height: 55px;
+	margin-top: 0px;
+	float: left;
+}
+
+.graybox2 {
+	width: 232px;
+	height: 55px;
+	margin-bottom: 10px;
+	margin-right: 3px;
+	float: right;
+}
+
+.lightbulb {
+	background-image: url(images/lightbulb.png);
+	background-size: cover;
+	width: 63px;
+	height: 63px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 10px;
+	color: #273040;
+}
+
+.cloud {
+	background-image: url(images/cloud.png);
+	background-size: cover;
+	width: 63px;
+	height: 63px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 10px;
+	color: #273040;
+}
+
+.SEO {
+	background-image: url(images/code.png);
+	background-size: cover;
+	width: 63px;
+	height: 63px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 10px;
+	color: #273040;
+}
+
+.graybox3 {
+	background-color: #BBC8CF;
+	width: 63px;
+	height: 63px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 10px;
+	color: #273040;
+}
+
+.chat {
+	background-image: url(images/comments.png);
+	background-size: cover;
+	width: 63px;
+	height: 63px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 10px;
+	color: #273040;
+}
+
+.premium {
+	background-image: url(images/gift.png);
+	background-size: cover;
+	width: 63px;
+	height: 63px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 10px;
+	color: #273040;
+}
+
+.globe {
+	background-image: url(images/globe.png);
+	background-size: cover;
+	width: 63px;
+	height: 63px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 10px;
+	color: #273040;
+}
+
+.graybox4 {
+	height: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 1px;
+}
+
+.graybox5 {
+	height: 50px;
+	margin-top: 20px;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 1px;
+	text-align: center;
+}
+
+.graybox6 {
+	background-color: #BBC8CF;
+	height: 85px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 1px;
+	text-align: center;
+}
+/*End Homework3: Text*/
